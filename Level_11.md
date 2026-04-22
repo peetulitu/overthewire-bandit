@@ -5,7 +5,7 @@ by 13 positions.
 ## Approach
 This level focused on a different kind of challenge and it made the solution very simple, the information provided lets us know that the 
 text has been passed through `ROT13`, so the next step is to undo the encoding, to do so I used the `cat` command and the piped the output
-through `tr`. This works because the alphabet is 26 letters so if it was initially rotated 13 times we can rotate it 13 more to reverse back
+through `tr`. This works because the alphabet is 26 letters so if it was initially rotated by 13 positions we can rotate it 13 more to reverse back
 to where we started.
 
 Command breakdown:
