@@ -3,7 +3,7 @@ The password for the next level is stored in a file called readme located in the
 bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 ## Approach
-The approach to this level was quite straight forward, because we know the name of the file and the directory where it is located, 
+The approach to this level was quite straight forward, because I know the name of the file and the directory where it is located, 
 I used the cat command to read the files contents.
 
 ## Command Used
