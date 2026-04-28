@@ -1,0 +1,1 @@
+This repository contains my writeups for the OverTheWire Bandit wargame, a hands-on introduction to offensive security and Linux command line skills. Each writeup documents the objective, my approach (including wrong turns and how I diagnosed them), the commands used, and the broader pentesting concepts I learned on each level.
